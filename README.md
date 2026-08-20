@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Josh! <br/><a <a href="https://www.linkedin.com/in/bradly-halterman-906a32268/">Cybersecurity Professional</a></a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+<h2>📺 Certifications</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Br4dl3bh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/bradly-halterman-906a32268/
 
 <!--
-**Br4dl3bh/Br4dl3bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
