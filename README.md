@@ -3,8 +3,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+
 <h2>📺 Certifications</h2>
 
+- [CompTIA A+}
+- [CompTIA Network +]
+- [CompTIA Security +]
+- [CompTIA CySA +]
+- [Linux Essentials]
 
 
 <h2> 🤳 Connect with me:</h2>
