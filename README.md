@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a <a href="https://www.linkedin.com/in/bradly-halterman-906a32268/">Cybersecurity Professional</a></a></h1>
+<h1>Hi, I'm Brad! <br/><a <a href="https://www.linkedin.com/in/bradly-halterman-906a32268/">Cybersecurity Professional</a></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
