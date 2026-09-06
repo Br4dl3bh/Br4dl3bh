@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects/Write ups:</h2>
 
-INCIDENT HANDLING WRITE-UP: 
+INCIDENT HANDLING WRITE-UP: <a href="https://github.com/Br4dl3bh/Skills-Assessment-Incident-Handling/">Incident Handling HTB</a>  
 
 <h2>📺 Certifications</h2>
 
@@ -19,7 +19,7 @@ INCIDENT HANDLING WRITE-UP:
 
 
 
-[linkedin]: https://www.linkedin.com/in/bradly-halterman-906a32268/
+[linkedin]: https://www.linkedin.com/in/bradly-halterman
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
